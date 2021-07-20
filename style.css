@@ -1,0 +1,30 @@
+body{
+    background-color: skyblue
+}
+#photo{
+    text-align: center;
+    background-color: red;
+}
+#photo h1{
+color: white;
+    font-size: 30px;
+}
+img{
+    height: 150px;
+}
+
+
+
+#text{
+    text-align: center;
+    background-color: yellow;
+}
+#text h2{ 
+color: darkblue;
+font-size: 30px;
+}
+p{
+    color: green;
+    font-size: 20;
+    font-family: fantasy;
+}
